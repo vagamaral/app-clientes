@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.hello-world" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>HelloWorld</name>
-    <description>
-        Hello World sample application that responds to the deviceready event.
-    </description>
+<widget id="com.vagneramaral.clientes" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Vagner Amaral</name>
+    <description>Este aplicativo serve para testes</description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
-    <preference name="permissions" value="none" />
+    <preference name="permissions" value="none" ></preference>
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="true" />
